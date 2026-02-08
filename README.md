@@ -1,2 +1,1 @@
 # selmandemir.github.io
-#deneme
